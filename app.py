@@ -32,7 +32,7 @@ def classify_email(email_text):
     # Predict using the model
     prediction = model.predict(message)[0]
     
-    return "Not Spam" if prediction == 'ham' else "Spam"
+    return 1 if prediction == 'ham' else 0
 
 # App Header
 st.title("📧 Email Classification App")
