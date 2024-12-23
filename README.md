@@ -13,7 +13,7 @@ A user-friendly Streamlit application to classify emails as **Spam** or **Not Sp
 5. [Usage](#usage)
 6. [File Structure](#file-structure)
 7. [Model Details](#model-details)
-8. [Screenshots](#screenshots)
+8. [App](#App)
 9. [License](#license)
 
 ---
@@ -103,13 +103,10 @@ email-classification-app/
 
 ---
 
-## Screenshots
+## App
 
-### 1. App Home Page
-![App Home Page](images/home.png)
+- [App Page](https://spam-emaildetection.streamlit.app/)
 
-### 2. Classification Result
-![Classification Result](images/result.png)
 
 ---
 
